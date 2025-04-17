@@ -38,17 +38,29 @@ Copiar
 Editar
 Projeto-Mais-Saude/
 ├── static/
+
 │   ├── imgs/
+
 │   ├── main.css
+
 │   ├── style.css
+
 │   └── scripts/
+
 │       └── script.js
+
 ├── templates/
+
 │   ├── index.html
+
 │   ├── politica.html
+
 │   └── termos.html
+
 ├── README.md
+
 📑 Pages Included
+
 Home page with tabs
 
 Privacy Policy
@@ -71,4 +83,5 @@ Font: Open Sans (Google Fonts)
 Developed by Davi Freitas.
 
 ✉️ [contatojulianacfreitas@gmail.com]
+
 🌐 [---]
