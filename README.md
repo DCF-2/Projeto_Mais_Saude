@@ -3,9 +3,11 @@
 Projeto Mais Saúde is a modern and responsive health-focused website, designed to deliver accessible information about physical, mental, and emotional wellness to users.
 
 📋 Project Overview
+
 This project aims to offer simple and reliable content in an intuitive interface. The platform features sections like health tips, mental well-being advice, simplified explanations of medical terms, and user opinions about health topics.
 
 🛠️ Technologies Used
+
 HTML5 — Structure and semantic organization
 
 CSS3 — Styling and responsive layout
@@ -21,6 +23,7 @@ Figma (optional) — Design and layout planning
 VS Code — Main development environment
 
 🚀 Features
+
 Responsive layout (works on desktop, tablet, and mobile)
 
 Interactive tab system (Corpo, Mente, Opinião, Descomplique)
@@ -34,6 +37,7 @@ Clean and accessible code organization
 SEO-ready basic structure
 
 📂 Project Structure
+
 cpp
 Copiar
 Editar
@@ -69,6 +73,7 @@ Privacy Policy
 Terms of Use
 
 🎨 Design Guidelines
+
 Main color palette:
 
 Primary: #00a99d (Mint Green)
