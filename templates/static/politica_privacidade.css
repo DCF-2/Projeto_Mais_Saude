@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 40px;
+  background-color: #f7fdfc;
+  color: #273e68;
+}
+h1, h2 {
+  color: #00a99d;
+}
+p {
+  margin-bottom: 16px;
+}
+ul {
+  margin-bottom: 16px;
+}
+@media (max-width: 768px) {
+  body {
+    margin: 20px;
+  }
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  p, li {
+    font-size: 16px;
+  }
+}
