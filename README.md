@@ -1,4 +1,4 @@
-                                                                                       Projeto Mais Saúde
+  Projeto Mais Saúde
 
 Projeto Mais Saúde is a modern and responsive health-focused website, designed to deliver accessible information about physical, mental, and emotional wellness to users.
 
