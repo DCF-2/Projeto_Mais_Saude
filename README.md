@@ -1,4 +1,4 @@
-Projeto Mais Saúde
+                                                                                       Projeto Mais Saúde
 
 Projeto Mais Saúde is a modern and responsive health-focused website, designed to deliver accessible information about physical, mental, and emotional wellness to users.
 
@@ -83,6 +83,6 @@ Font: Open Sans (Google Fonts)
 📞 Contact
 Developed by Davi Freitas.
 
-✉️ [contatojulianacfreitas@gmail.com]
+✉️ contatojulianacfreitas@gmail.com / davicfreitas1@gmail.com
 
 🌐 [---]
